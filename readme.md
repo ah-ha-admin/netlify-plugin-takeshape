@@ -44,3 +44,4 @@ If you wish to create your TakeShape project from a [pattern](https://app.takesh
 
 The plugin will automatically create API keys for your TakeShape project and add them to the Netlify build as the `TAKESHAPE_READ_ONLY_API_KEY` and `TAKESHAPE_READ_WRITE_KEY` environment variables. Refer to the [Netlify docs](https://docs.netlify.com/configure-builds/environment-variables/#access-variables) for instructions for accessing environment variables either during or after the build.
 ?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/f7001b21-8900-461e-9595-9e9fe7c0ab59/deploy-status)](https://app.netlify.com/sites/gorgeous-jalebi-1d9cf4/deploys)
+readme.md
