@@ -1,0 +1,1 @@
+[[plugins]] package = "@takeshape/netlify-plugin-takeshape" # Optional: specify the timzeone for your TakeShape project (defaults to "America/New_York") [plugins.inputs] timezone = "America/Los_Angeles"
